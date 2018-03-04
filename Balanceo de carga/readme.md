@@ -1,5 +1,7 @@
 # Balanceo de cargas
 
+![img](img/balanceo.png)
+
 En esta actividad vamos configurar una máquina con PfSense para que actúe como un balanceador de cargas de dos redes con acceso a internet.
 
 ## Configuración Máquina Virtual para PfSense.
